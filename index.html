@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An interactive 3D political map of Russia’s federal subjects, with regional presidential and State Duma election results.">
+  <meta name="theme-color" content="#07090d">
+  <title>Political Atlas — Russia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/maplibre-gl@6.10.0/dist/maplibre-gl.css" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=ru-25">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-J8N1Q1GVVB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-J8N1Q1GVVB");
+    (function(m,e,t,r,i,k,a){
+      m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+      m[i].l=1*new Date();
+      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js?id=105986243", "ym");
+    ym(105986243, "init", {accurateTrackBounce:true, trackLinks:true});
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#state-details">Skip to state details</a>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Political Atlas home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><b>POLITIKATLAS</b></a>
+      <div class="header-status" aria-live="polite"><span class="live-dot" aria-hidden="true"></span><span id="data-status">Loading local election archive…</span></div>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">Election archive · 89 mapped subjects</p>
+          <h1 id="page-title">Russia,<br><span>subject by subject.</span></h1>
+          <p class="hero-intro">A static regional archive of presidential and State Duma results, rendered as an interactive 3D map.</p>
+        </div>
+        <div class="hero-metrics" aria-label="Election archive overview">
+          <div><span id="cycle-count">—</span><small>federal election cycles</small></div>
+          <div><span id="coverage-count">—</span><small>subjects in this result</small></div>
+          <div><span id="election-date-hero">—</span><small>selected election</small></div>
+        </div>
+      </section>
+
+      <section class="atlas" aria-label="Interactive political map">
+        <div class="atlas-toolbar">
+          <div class="archive-controls" aria-label="Election archive controls">
+            <div class="election-types" role="group" aria-label="Election type">
+              <button class="election-type is-active" type="button" data-type="presidential" aria-pressed="true">Presidential</button>
+              <button class="election-type" type="button" data-type="duma" aria-pressed="false">State Duma</button>
+            </div>
+            <span class="control-divider" aria-hidden="true"></span>
+            <div id="year-switch" class="year-switch" role="group" aria-label="Election year"></div>
+          </div>
+          <p id="view-description">Colour shows the regional winner; height shows the winner’s share of valid votes.</p>
+        </div>
+
+        <div class="atlas-grid">
+          <div class="map-panel">
+            <div id="map" role="application" aria-label="Interactive map of Russia’s federal subjects"></div>
+            <div id="map-legend" class="map-legend" aria-label="Filter map by party"></div>
+            <button id="reset-map" class="map-reset" type="button">Reset 3D</button>
+            <div id="map-tooltip" class="map-tooltip" role="tooltip" hidden></div>
+          </div>
+
+          <aside id="state-details" class="state-panel" aria-live="polite">
+            <div class="state-identity">
+              <div id="state-code" class="state-code">RU</div>
+              <div><p class="eyebrow">FEDERAL SUBJECT</p><h2 id="state-name">Federal City of Moscow</h2><p id="state-capital" class="state-capital">город федерального значения Москва · federal subject</p></div>
+            </div>
+            <div class="election-alert"><div class="alert-label" id="selected-election-label">SELECTED ELECTION</div><div class="alert-value"><strong id="selected-election-title">—</strong><span id="selected-turnout">—</span></div></div>
+            <div class="data-section">
+              <div class="section-heading"><div><p id="result-label" class="section-label">REGIONAL RESULT</p><p id="result-note" class="section-note">—</p></div></div>
+              <div id="election-bars" class="party-bars"></div>
+              <a id="election-source" class="source-link" target="_blank" rel="noopener noreferrer">Source ↗</a>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="overview" aria-labelledby="overview-title">
+        <h2 id="overview-title">All federal subjects at a glance</h2>
+        <div class="table-wrap"><table><thead><tr><th>Federal subject</th><th id="table-election">Selected election</th><th>Winner’s share</th><th>Turnout</th></tr></thead><tbody id="states-table"></tbody></table></div>
+      </section>
+
+      <section class="party-landscape" aria-labelledby="party-title">
+        <h2 id="party-title">Regional result landscape</h2>
+        <div class="intel-metrics" aria-label="Selected election summary">
+          <div><span id="party-count">—</span><small>parties or candidates mapped</small></div>
+          <div><span id="winner-count">—</span><small>distinct regional winners</small></div>
+          <div><span id="mean-share">—</span><small>mean winning share</small></div>
+        </div>
+        <div class="table-wrap"><table class="party-table"><thead><tr><th>Party or candidate</th><th>Subjects led</th><th>Mean regional share</th><th>Strongest subject</th></tr></thead><tbody id="party-table"></tbody></table></div>
+        <p id="data-caveat" class="data-caveat"></p>
+      </section>
+
+      <section class="methodology" aria-labelledby="methodology-title">
+        <h2 id="methodology-title">A local archive, not a forecast.</h2>
+        <div class="method-copy"><p>Every map value comes from the selected election’s regional result. The browser fetches only files stored in this repository; it makes no runtime calls to election or polling APIs.</p><p>Historical coverage follows the source tables’ contemporaneous administrative units. When a modern mapped subject has no comparable record for a cycle, it is deliberately left neutral.</p></div>
+      </section>
+    </main>
+
+    <footer><div class="footer-links"><a href="https://duma.stetsura.ru/2026/elections/russia/" target="_blank" rel="noopener noreferrer">2026 preliminary CEC snapshot</a><a href="https://github.com/georgytarasenko/RED-replication-package" target="_blank" rel="noopener noreferrer">2000–2024 source archive</a><a href="https://www.electoralgeography.com/new/ru/category/countries/r/russia" target="_blank" rel="noopener noreferrer">1991–1999 historical tables</a><a href="https://github.com/rnekrasov-msk/geojson" target="_blank" rel="noopener noreferrer">Map geometry</a><a href="https://github.com/kusaku/russia-political-map/commit/main" target="_blank" rel="noopener noreferrer">Version: latest commit</a><a href="https://kusaku.su/" target="_blank" rel="noopener noreferrer">by kusaku</a></div></footer>
+  </div>
+  <noscript>This interactive map needs JavaScript enabled.</noscript>
+    <script type="module" src="app.js?v=ru-30"></script>
+</body>
+</html>

@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "01",
+    "iso": "RU-01",
+    "name": "Republic of Adygea",
+    "localName": "Республика Адыгея (Адыгея)",
+    "capital": "Federal subject",
+    "label": [
+      39.692,
+      44.482
+    ],
+    "flag": "ad"
+  },
+  {
+    "id": "02",
+    "iso": "RU-02",
+    "name": "Altai Krai",
+    "localName": "Алтайский край",
+    "capital": "Federal subject",
+    "label": [
+      82.493,
+      52.533
+    ],
+    "flag": "alt"
+  },
+  {
+    "id": "03",
+    "iso": "RU-03",
+    "name": "Amur Oblast",
+    "localName": "Амурская область",
+    "capital": "Federal subject",
+    "label": [
+      127.262,
+      52.954
+    ],
+    "flag": "amu"
+  },
+  {
+    "id": "04",
+    "iso": "RU-04",
+    "name": "Arkhangelsk Oblast",
+    "localName": "Архангельская область",
+    "capital": "Federal subject",
+    "label": [
+      52.283,
+      71.263
+    ],
+    "flag": "ark"
+  },
+  {
+    "id": "05",
+    "iso": "RU-05",
+    "name": "Astrakhan Oblast",
+    "localName": "Астраханская область",
+    "capital": "Federal subject",
+    "label": [
+      47.127,
+      47.141
+    ],
+    "flag": "ast"
+  },
+  {
+    "id": "06",
+    "iso": "RU-06",
+    "name": "Republic of Bashkortostan",
+    "localName": "Республика Башкортостан",
+    "capital": "Federal subject",
+    "label": [
+      56.535,
+      54.058
+    ],
+    "flag": "ba"
+  },
+  {
+    "id": "07",
+    "iso": "RU-07",
+    "name": "Belgorod Oblast",
+    "localName": "Белгородская область",
+    "capital": "Federal subject",
+    "label": [
+      37.359,
+      50.614
+    ],
+    "flag": "bel"
+  },
+  {
+    "id": "08",
+    "iso": "RU-08",
+    "name": "Bryansk Oblast",
+    "localName": "Брянская область",
+    "capital": "Federal subject",
+    "label": [
+      33.267,
+      52.94
+    ],
+    "flag": "bry"
+  },
+  {
+    "id": "09",
+    "iso": "RU-09",
+    "name": "Republic of Buryatia",
+    "localName": "Республика Бурятия",
+    "capital": "Federal subject",
+    "label": [
+      107.79,
+      53.596
+    ],
+    "flag": "bu"
+  },
+  {
+    "id": "10",
+    "iso": "RU-10",
+    "name": "Chechen Republic",
+    "localName": "Чеченская Республика",
+    "capital": "Federal subject",
+    "label": [
+      45.773,
+      43.229
+    ],
+    "flag": "ce"
+  },
+  {
+    "id": "11",
+    "iso": "RU-11",
+    "name": "Chelyabinsk Oblast",
+    "localName": "Челябинская область",
+    "capital": "Federal subject",
+    "label": [
+      60.253,
+      54.203
+    ],
+    "flag": "che"
+  },
+  {
+    "id": "12",
+    "iso": "RU-12",
+    "name": "Chukotka Autonomous Okrug",
+    "localName": "Чукотский автономный округ",
+    "capital": "Federal subject",
+    "label": [
+      185,
+      66.711
+    ],
+    "flag": "chu"
+  },
+  {
+    "id": "13",
+    "iso": "RU-13",
+    "name": "Chuvash Republic",
+    "localName": "Чувашская Республика — Чувашия",
+    "capital": "Federal subject",
+    "label": [
+      47.208,
+      55.49
+    ],
+    "flag": "cu"
+  },
+  {
+    "id": "14",
+    "iso": "RU-14",
+    "name": "Federal City of Saint Petersburg",
+    "localName": "город федерального значения Санкт-Петербург",
+    "capital": "Federal subject",
+    "label": [
+      30.09,
+      59.94
+    ],
+    "flag": "spe"
+  },
+  {
+    "id": "15",
+    "iso": "RU-15",
+    "name": "Republic of Crimea",
+    "localName": "Республика Крым",
+    "capital": "Federal subject",
+    "label": [
+      34.554,
+      45.284
+    ],
+    "flag": "cr"
+  },
+  {
+    "id": "16",
+    "iso": "RU-16",
+    "name": "Republic of Dagestan",
+    "localName": "Республика Дагестан",
+    "capital": "Federal subject",
+    "label": [
+      46.852,
+      43.1
+    ],
+    "flag": "da"
+  },
+  {
+    "id": "17",
+    "iso": "RU-17",
+    "name": "Altai Republic",
+    "localName": "Республика Алтай",
+    "capital": "Federal subject",
+    "label": [
+      86.921,
+      50.865
+    ],
+    "flag": "al"
+  },
+  {
+    "id": "18",
+    "iso": "RU-18",
+    "name": "Republic of Ingushetia",
+    "localName": "Республика Ингушетия",
+    "capital": "Federal subject",
+    "label": [
+      44.948,
+      43.1
+    ],
+    "flag": "in"
+  },
+  {
+    "id": "19",
+    "iso": "RU-19",
+    "name": "Irkutsk Oblast",
+    "localName": "Иркутская область",
+    "capital": "Federal subject",
+    "label": [
+      107.352,
+      57.701
+    ],
+    "flag": "irk"
+  },
+  {
+    "id": "20",
+    "iso": "RU-20",
+    "name": "Ivanovo Oblast",
+    "localName": "Ивановская область",
+    "capital": "Federal subject",
+    "label": [
+      41.644,
+      57.026
+    ],
+    "flag": "iva"
+  },
+  {
+    "id": "21",
+    "iso": "RU-21",
+    "name": "Kabardino-Balkarian Republic",
+    "localName": "Кабардино-Балкарская Республика",
+    "capital": "Federal subject",
+    "label": [
+      43.522,
+      43.419
+    ],
+    "flag": "kb"
+  },
+  {
+    "id": "22",
+    "iso": "RU-22",
+    "name": "Kaliningrad Oblast",
+    "localName": "Калининградская область",
+    "capital": "Federal subject",
+    "label": [
+      21.266,
+      54.806
+    ],
+    "flag": "kgd"
+  },
+  {
+    "id": "23",
+    "iso": "RU-23",
+    "name": "Republic of Kalmykia",
+    "localName": "Республика Калмыкия",
+    "capital": "Federal subject",
+    "label": [
+      44.629,
+      46.499
+    ],
+    "flag": "kl"
+  },
+  {
+    "id": "24",
+    "iso": "RU-24",
+    "name": "Kaluga Oblast",
+    "localName": "Калужская область",
+    "capital": "Federal subject",
+    "label": [
+      35.361,
+      54.29
+    ],
+    "flag": "klu"
+  },
+  {
+    "id": "25",
+    "iso": "RU-25",
+    "name": "Kamchatka Krai",
+    "localName": "Камчатский край",
+    "capital": "Federal subject",
+    "label": [
+      165.006,
+      57.89
+    ],
+    "flag": "kam"
+  },
+  {
+    "id": "26",
+    "iso": "RU-26",
+    "name": "Karachay-Cherkess Republic",
+    "localName": "Карачаево-Черкесская Республика",
+    "capital": "Federal subject",
+    "label": [
+      41.798,
+      43.83
+    ],
+    "flag": "kc"
+  },
+  {
+    "id": "27",
+    "iso": "RU-27",
+    "name": "Republic of Karelia",
+    "localName": "Республика Карелия",
+    "capital": "Federal subject",
+    "label": [
+      33.639,
+      63.648
+    ],
+    "flag": "kr"
+  },
+  {
+    "id": "28",
+    "iso": "RU-28",
+    "name": "Kemerovo Oblast — Kuzbass",
+    "localName": "Кемеровская область — Кузбасс",
+    "capital": "Federal subject",
+    "label": [
+      86.949,
+      54.525
+    ],
+    "flag": "kem"
+  },
+  {
+    "id": "29",
+    "iso": "RU-29",
+    "name": "Khabarovsk Krai",
+    "localName": "Хабаровский край",
+    "capital": "Federal subject",
+    "label": [
+      138.828,
+      53.765
+    ],
+    "flag": "kha"
+  },
+  {
+    "id": "30",
+    "iso": "RU-30",
+    "name": "Republic of Khakassia",
+    "localName": "Республика Хакасия",
+    "capital": "Federal subject",
+    "label": [
+      89.874,
+      53.358
+    ],
+    "flag": "kk"
+  },
+  {
+    "id": "31",
+    "iso": "RU-31",
+    "name": "Khanty-Mansi Autonomous Okrug — Yugra",
+    "localName": "Ханты-Мансийский автономный округ — Югра",
+    "capital": "Federal subject",
+    "label": [
+      72.602,
+      62.135
+    ],
+    "flag": "khm"
+  },
+  {
+    "id": "32",
+    "iso": "RU-32",
+    "name": "Kirov Oblast",
+    "localName": "Кировская область",
+    "capital": "Federal subject",
+    "label": [
+      50.113,
+      58.586
+    ],
+    "flag": "kir"
+  },
+  {
+    "id": "33",
+    "iso": "RU-33",
+    "name": "Republic of Komi",
+    "localName": "Республика Коми",
+    "capital": "Federal subject",
+    "label": [
+      55.846,
+      63.817
+    ],
+    "flag": "ko"
+  },
+  {
+    "id": "34",
+    "iso": "RU-34",
+    "name": "Kostroma Oblast",
+    "localName": "Костромская область",
+    "capital": "Federal subject",
+    "label": [
+      44.02,
+      58.449
+    ],
+    "flag": "kos"
+  },
+  {
+    "id": "35",
+    "iso": "RU-35",
+    "name": "Krasnodar Krai",
+    "localName": "Краснодарский край",
+    "capital": "Federal subject",
+    "label": [
+      39.238,
+      45.133
+    ],
+    "flag": "kda"
+  },
+  {
+    "id": "36",
+    "iso": "RU-36",
+    "name": "Krasnoyarsk Krai",
+    "localName": "Красноярский край",
+    "capital": "Federal subject",
+    "label": [
+      95.014,
+      66.511
+    ],
+    "flag": "kya"
+  },
+  {
+    "id": "37",
+    "iso": "RU-37",
+    "name": "Kurgan Oblast",
+    "localName": "Курганская область",
+    "capital": "Federal subject",
+    "label": [
+      65.315,
+      55.53
+    ],
+    "flag": "kgn"
+  },
+  {
+    "id": "38",
+    "iso": "RU-38",
+    "name": "Kursk Oblast",
+    "localName": "Курская область",
+    "capital": "Federal subject",
+    "label": [
+      36.368,
+      51.713
+    ],
+    "flag": "krs"
+  },
+  {
+    "id": "39",
+    "iso": "RU-39",
+    "name": "Leningrad Oblast",
+    "localName": "Ленинградская область",
+    "capital": "Federal subject",
+    "label": [
+      31.195,
+      59.877
+    ],
+    "flag": "len"
+  },
+  {
+    "id": "40",
+    "iso": "RU-40",
+    "name": "Lipetsk Oblast",
+    "localName": "Липецкая область",
+    "capital": "Federal subject",
+    "label": [
+      39.258,
+      52.739
+    ],
+    "flag": "lip"
+  },
+  {
+    "id": "41",
+    "iso": "RU-41",
+    "name": "Magadan Oblast",
+    "localName": "Магаданская область",
+    "capital": "Federal subject",
+    "label": [
+      154.145,
+      62.578
+    ],
+    "flag": "mag"
+  },
+  {
+    "id": "42",
+    "iso": "RU-42",
+    "name": "Republic of Mari El",
+    "localName": "Республика Марий Эл",
+    "capital": "Federal subject",
+    "label": [
+      47.921,
+      56.588
+    ],
+    "flag": "me"
+  },
+  {
+    "id": "43",
+    "iso": "RU-43",
+    "name": "Republic of Mordovia",
+    "localName": "Республика Мордовия",
+    "capital": "Federal subject",
+    "label": [
+      44.451,
+      54.412
+    ],
+    "flag": "mo"
+  },
+  {
+    "id": "44",
+    "iso": "RU-44",
+    "name": "Federal City of Moscow",
+    "localName": "город федерального значения Москва",
+    "capital": "Federal subject",
+    "label": [
+      37.574,
+      55.741
+    ],
+    "flag": "mow"
+  },
+  {
+    "id": "45",
+    "iso": "RU-45",
+    "name": "Moscow Oblast",
+    "localName": "Московская область",
+    "capital": "Federal subject",
+    "label": [
+      37.699,
+      55.585
+    ],
+    "flag": "mos"
+  },
+  {
+    "id": "46",
+    "iso": "RU-46",
+    "name": "Murmansk Oblast",
+    "localName": "Мурманская область",
+    "capital": "Federal subject",
+    "label": [
+      34.919,
+      67.997
+    ],
+    "flag": "mur"
+  },
+  {
+    "id": "47",
+    "iso": "RU-47",
+    "name": "Nenets Autonomous Okrug",
+    "localName": "Ненецкий автономный округ",
+    "capital": "Federal subject",
+    "label": [
+      54.48,
+      68.151
+    ],
+    "flag": "nen"
+  },
+  {
+    "id": "48",
+    "iso": "RU-48",
+    "name": "Nizhny Novgorod Oblast",
+    "localName": "Нижегородская область",
+    "capital": "Federal subject",
+    "label": [
+      44.784,
+      56.27
+    ],
+    "flag": "niz"
+  },
+  {
+    "id": "49",
+    "iso": "RU-49",
+    "name": "Republic of North Ossetia — Alania",
+    "localName": "Республика Северная Осетия — Алания",
+    "capital": "Federal subject",
+    "label": [
+      44.199,
+      43.159
+    ],
+    "flag": "se"
+  },
+  {
+    "id": "50",
+    "iso": "RU-50",
+    "name": "Novgorod Oblast",
+    "localName": "Новгородская область",
+    "capital": "Federal subject",
+    "label": [
+      33.071,
+      58.145
+    ],
+    "flag": "ngr"
+  },
+  {
+    "id": "51",
+    "iso": "RU-51",
+    "name": "Novosibirsk Oblast",
+    "localName": "Новосибирская область",
+    "capital": "Federal subject",
+    "label": [
+      80.088,
+      55.268
+    ],
+    "flag": "nvs"
+  },
+  {
+    "id": "52",
+    "iso": "RU-52",
+    "name": "Omsk Oblast",
+    "localName": "Омская область",
+    "capital": "Federal subject",
+    "label": [
+      73.359,
+      56.008
+    ],
+    "flag": "oms"
+  },
+  {
+    "id": "53",
+    "iso": "RU-53",
+    "name": "Oryol Oblast",
+    "localName": "Орловская область",
+    "capital": "Federal subject",
+    "label": [
+      36.429,
+      52.795
+    ],
+    "flag": "orl"
+  },
+  {
+    "id": "54",
+    "iso": "RU-54",
+    "name": "Orenburg Oblast",
+    "localName": "Оренбургская область",
+    "capital": "Federal subject",
+    "label": [
+      56.257,
+      52.451
+    ],
+    "flag": "ore"
+  },
+  {
+    "id": "55",
+    "iso": "RU-55",
+    "name": "Penza Oblast",
+    "localName": "Пензенская область",
+    "capital": "Federal subject",
+    "label": [
+      44.546,
+      53.152
+    ],
+    "flag": "pnz"
+  },
+  {
+    "id": "56",
+    "iso": "RU-56",
+    "name": "Perm Krai",
+    "localName": "Пермский край",
+    "capital": "Federal subject",
+    "label": [
+      55.636,
+      58.906
+    ],
+    "flag": "per"
+  },
+  {
+    "id": "57",
+    "iso": "RU-57",
+    "name": "Primorsky Krai",
+    "localName": "Приморский край",
+    "capital": "Federal subject",
+    "label": [
+      134.728,
+      45.373
+    ],
+    "flag": "pri"
+  },
+  {
+    "id": "58",
+    "iso": "RU-58",
+    "name": "Pskov Oblast",
+    "localName": "Псковская область",
+    "capital": "Federal subject",
+    "label": [
+      29.439,
+      57.299
+    ],
+    "flag": "psk"
+  },
+  {
+    "id": "59",
+    "iso": "RU-59",
+    "name": "Rostov Oblast",
+    "localName": "Ростовская область",
+    "capital": "Federal subject",
+    "label": [
+      41.298,
+      48.069
+    ],
+    "flag": "ros"
+  },
+  {
+    "id": "60",
+    "iso": "RU-60",
+    "name": "Ryazan Oblast",
+    "localName": "Рязанская область",
+    "capital": "Federal subject",
+    "label": [
+      40.666,
+      54.316
+    ],
+    "flag": "rya"
+  },
+  {
+    "id": "61",
+    "iso": "RU-61",
+    "name": "Republic of Sakha (Yakutia)",
+    "localName": "Республика Саха (Якутия)",
+    "capital": "Federal subject",
+    "label": [
+      134.148,
+      66.254
+    ],
+    "flag": "sa"
+  },
+  {
+    "id": "62",
+    "iso": "RU-62",
+    "name": "Sakhalin Oblast",
+    "localName": "Сахалинская область",
+    "capital": "Federal subject",
+    "label": [
+      148.863,
+      48.892
+    ],
+    "flag": "sak"
+  },
+  {
+    "id": "63",
+    "iso": "RU-63",
+    "name": "Samara Oblast",
+    "localName": "Самарская область",
+    "capital": "Federal subject",
+    "label": [
+      50.272,
+      53.234
+    ],
+    "flag": "sam"
+  },
+  {
+    "id": "64",
+    "iso": "RU-64",
+    "name": "Saratov Oblast",
+    "localName": "Саратовская область",
+    "capital": "Federal subject",
+    "label": [
+      46.704,
+      51.321
+    ],
+    "flag": "sar"
+  },
+  {
+    "id": "65",
+    "iso": "RU-65",
+    "name": "Federal City of Sevastopol",
+    "localName": "город федерального значения Севастополь",
+    "capital": "Federal subject",
+    "label": [
+      33.645,
+      44.614
+    ],
+    "flag": "sev"
+  },
+  {
+    "id": "66",
+    "iso": "RU-66",
+    "name": "Smolensk Oblast",
+    "localName": "Смоленская область",
+    "capital": "Federal subject",
+    "label": [
+      33.086,
+      54.726
+    ],
+    "flag": "smo"
+  },
+  {
+    "id": "67",
+    "iso": "RU-67",
+    "name": "Stavropol Krai",
+    "localName": "Ставропольский край",
+    "capital": "Federal subject",
+    "label": [
+      43.275,
+      44.926
+    ],
+    "flag": "sta"
+  },
+  {
+    "id": "68",
+    "iso": "RU-68",
+    "name": "Sverdlovsk Oblast",
+    "localName": "Свердловская область",
+    "capital": "Federal subject",
+    "label": [
+      61.731,
+      59.028
+    ],
+    "flag": "sve"
+  },
+  {
+    "id": "69",
+    "iso": "RU-69",
+    "name": "Tambov Oblast",
+    "localName": "Тамбовская область",
+    "capital": "Federal subject",
+    "label": [
+      41.651,
+      52.681
+    ],
+    "flag": "tam"
+  },
+  {
+    "id": "70",
+    "iso": "RU-70",
+    "name": "Republic of Tatarstan",
+    "localName": "Республика Татарстан (Татарстан)",
+    "capital": "Federal subject",
+    "label": [
+      50.74,
+      55.377
+    ],
+    "flag": "ta"
+  },
+  {
+    "id": "71",
+    "iso": "RU-71",
+    "name": "Tomsk Oblast",
+    "localName": "Томская область",
+    "capital": "Federal subject",
+    "label": [
+      82.208,
+      58.34
+    ],
+    "flag": "tom"
+  },
+  {
+    "id": "72",
+    "iso": "RU-72",
+    "name": "Tula Oblast",
+    "localName": "Тульская область",
+    "capital": "Federal subject",
+    "label": [
+      37.466,
+      53.892
+    ],
+    "flag": "tul"
+  },
+  {
+    "id": "73",
+    "iso": "RU-73",
+    "name": "Republic of Tyva",
+    "localName": "Республика Тыва",
+    "capital": "Federal subject",
+    "label": [
+      94.005,
+      51.755
+    ],
+    "flag": "ty"
+  },
+  {
+    "id": "74",
+    "iso": "RU-74",
+    "name": "Tver Oblast",
+    "localName": "Тверская область",
+    "capital": "Federal subject",
+    "label": [
+      34.596,
+      57.215
+    ],
+    "flag": "tve"
+  },
+  {
+    "id": "75",
+    "iso": "RU-75",
+    "name": "Tyumen Oblast",
+    "localName": "Тюменская область",
+    "capital": "Federal subject",
+    "label": [
+      70.041,
+      57.544
+    ],
+    "flag": "tyu"
+  },
+  {
+    "id": "76",
+    "iso": "RU-76",
+    "name": "Udmurt Republic",
+    "localName": "Удмуртская Республика",
+    "capital": "Federal subject",
+    "label": [
+      52.774,
+      57.209
+    ],
+    "flag": "ud"
+  },
+  {
+    "id": "77",
+    "iso": "RU-77",
+    "name": "Ulyanovsk Oblast",
+    "localName": "Ульяновская область",
+    "capital": "Federal subject",
+    "label": [
+      48.057,
+      53.73
+    ],
+    "flag": "uly"
+  },
+  {
+    "id": "78",
+    "iso": "RU-78",
+    "name": "Vladimir Oblast",
+    "localName": "Владимирская область",
+    "capital": "Federal subject",
+    "label": [
+      40.627,
+      55.956
+    ],
+    "flag": "vla"
+  },
+  {
+    "id": "79",
+    "iso": "RU-79",
+    "name": "Volgograd Oblast",
+    "localName": "Волгоградская область",
+    "capital": "Federal subject",
+    "label": [
+      44.358,
+      49.327
+    ],
+    "flag": "vgg"
+  },
+  {
+    "id": "80",
+    "iso": "RU-80",
+    "name": "Vologda Oblast",
+    "localName": "Вологодская область",
+    "capital": "Federal subject",
+    "label": [
+      40.956,
+      60.056
+    ],
+    "flag": "vlg"
+  },
+  {
+    "id": "81",
+    "iso": "RU-81",
+    "name": "Voronezh Oblast",
+    "localName": "Воронежская область",
+    "capital": "Federal subject",
+    "label": [
+      40.582,
+      50.831
+    ],
+    "flag": "vor"
+  },
+  {
+    "id": "82",
+    "iso": "RU-82",
+    "name": "Yamalo-Nenets Autonomous Okrug",
+    "localName": "Ямало-Ненецкий автономный округ",
+    "capital": "Federal subject",
+    "label": [
+      74.023,
+      67.852
+    ],
+    "flag": "yan"
+  },
+  {
+    "id": "83",
+    "iso": "RU-83",
+    "name": "Yaroslavl Oblast",
+    "localName": "Ярославская область",
+    "capital": "Federal subject",
+    "label": [
+      39.29,
+      57.742
+    ],
+    "flag": "yar"
+  },
+  {
+    "id": "84",
+    "iso": "RU-84",
+    "name": "Jewish Autonomous Oblast",
+    "localName": "Еврейская автономная область",
+    "capital": "Federal subject",
+    "label": [
+      132.712,
+      48.575
+    ],
+    "flag": "yev"
+  },
+  {
+    "id": "85",
+    "iso": "RU-85",
+    "name": "Zabaykalsky Krai",
+    "localName": "Забайкальский край",
+    "capital": "Federal subject",
+    "label": [
+      114.893,
+      53.783
+    ],
+    "flag": "zab"
+  },
+  {
+    "id": "86",
+    "iso": "RU-DPR",
+    "name": "Donetsk People's Republic",
+    "localName": "Донецкая Народная Республика",
+    "capital": "Claimed federal subject",
+    "label": [
+      37.793,
+      48.054
+    ],
+    "flag": "dnr"
+  },
+  {
+    "id": "87",
+    "iso": "RU-LPR",
+    "name": "Luhansk People's Republic",
+    "localName": "Луганская Народная Республика",
+    "capital": "Claimed federal subject",
+    "label": [
+      39.004,
+      48.938
+    ],
+    "flag": "lnr"
+  },
+  {
+    "id": "88",
+    "iso": "RU-ZAP",
+    "name": "Zaporizhzhia Oblast",
+    "localName": "Запорожская область",
+    "capital": "Claimed federal subject",
+    "label": [
+      35.712,
+      47.193
+    ],
+    "flag": "zap"
+  },
+  {
+    "id": "89",
+    "iso": "RU-KHE",
+    "name": "Kherson Oblast",
+    "localName": "Херсонская область",
+    "capital": "Claimed federal subject",
+    "label": [
+      33.392,
+      46.673
+    ],
+    "flag": "khe"
+  }
+]

@@ -1,0 +1,5446 @@
+{
+  "source": "2021 State Duma party-list regional table, compiled from CEC results",
+  "sourceUrl": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC",
+  "states": {
+    "10": {
+      "date": "2021-09-19",
+      "turnout": 94.42,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 96.13
+        },
+        {
+          "party": "A Just Russia",
+          "value": 0.93
+        },
+        {
+          "party": "CPRF",
+          "value": 0.75
+        },
+        {
+          "party": "RPSS",
+          "value": 0.33
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.25
+        },
+        {
+          "party": "New People",
+          "value": 0.24
+        },
+        {
+          "party": "Greens",
+          "value": 0.23
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.23
+        },
+        {
+          "party": "Rodina",
+          "value": 0.18
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.14
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.14
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.13
+        },
+        {
+          "party": "LDPR",
+          "value": 0.11
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "11": {
+      "date": "2021-09-19",
+      "turnout": 46.54,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 34.31
+        },
+        {
+          "party": "CPRF",
+          "value": 19.69
+        },
+        {
+          "party": "A Just Russia",
+          "value": 17.25
+        },
+        {
+          "party": "New People",
+          "value": 8.3
+        },
+        {
+          "party": "LDPR",
+          "value": 7.83
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.78
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.3
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.09
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.88
+        },
+        {
+          "party": "Greens",
+          "value": 0.88
+        },
+        {
+          "party": "RPSS",
+          "value": 0.82
+        },
+        {
+          "party": "Rodina",
+          "value": 0.77
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.32
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "12": {
+      "date": "2021-09-19",
+      "turnout": 61.29,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 46.71
+        },
+        {
+          "party": "LDPR",
+          "value": 15.16
+        },
+        {
+          "party": "CPRF",
+          "value": 12.49
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.26
+        },
+        {
+          "party": "New People",
+          "value": 4.95
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.32
+        },
+        {
+          "party": "Green Alternative",
+          "value": 1.35
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.23
+        },
+        {
+          "party": "Greens",
+          "value": 1.23
+        },
+        {
+          "party": "RPSS",
+          "value": 0.92
+        },
+        {
+          "party": "Rodina",
+          "value": 0.86
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.79
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.47
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.25
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "13": {
+      "date": "2021-09-19",
+      "turnout": 57.03,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 37.18
+        },
+        {
+          "party": "CPRF",
+          "value": 22.51
+        },
+        {
+          "party": "A Just Russia",
+          "value": 14.91
+        },
+        {
+          "party": "LDPR",
+          "value": 6.79
+        },
+        {
+          "party": "New People",
+          "value": 5.71
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 4.34
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.87
+        },
+        {
+          "party": "Greens",
+          "value": 0.9
+        },
+        {
+          "party": "RPSS",
+          "value": 0.62
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.57
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.53
+        },
+        {
+          "party": "Rodina",
+          "value": 0.49
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.32
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.21
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "14": {
+      "date": "2021-09-19",
+      "turnout": 37.61,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 34.99
+        },
+        {
+          "party": "CPRF",
+          "value": 17.9
+        },
+        {
+          "party": "A Just Russia",
+          "value": 10.79
+        },
+        {
+          "party": "New People",
+          "value": 7.54
+        },
+        {
+          "party": "Yabloko",
+          "value": 6.87
+        },
+        {
+          "party": "LDPR",
+          "value": 6.2
+        },
+        {
+          "party": "Party of Growth",
+          "value": 3.6
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.82
+        },
+        {
+          "party": "RPSS",
+          "value": 1.51
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.32
+        },
+        {
+          "party": "Rodina",
+          "value": 1.31
+        },
+        {
+          "party": "Greens",
+          "value": 1.3
+        },
+        {
+          "party": "Green Alternative",
+          "value": 1.17
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.2
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "15": {
+      "date": "2021-09-19",
+      "turnout": 49.75,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 63.33
+        },
+        {
+          "party": "CPRF",
+          "value": 9.15
+        },
+        {
+          "party": "LDPR",
+          "value": 7.75
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.93
+        },
+        {
+          "party": "New People",
+          "value": 3.96
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.33
+        },
+        {
+          "party": "Greens",
+          "value": 0.92
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.85
+        },
+        {
+          "party": "Rodina",
+          "value": 0.82
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.72
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.66
+        },
+        {
+          "party": "RPSS",
+          "value": 0.56
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.24
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "16": {
+      "date": "2021-09-19",
+      "turnout": 84.52,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 81.18
+        },
+        {
+          "party": "CPRF",
+          "value": 6.2
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.56
+        },
+        {
+          "party": "LDPR",
+          "value": 2.49
+        },
+        {
+          "party": "Party of Growth",
+          "value": 1.05
+        },
+        {
+          "party": "New People",
+          "value": 0.78
+        },
+        {
+          "party": "RPSS",
+          "value": 0.77
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.34
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.34
+        },
+        {
+          "party": "Greens",
+          "value": 0.27
+        },
+        {
+          "party": "Rodina",
+          "value": 0.14
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.12
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.07
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.06
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "17": {
+      "date": "2021-09-19",
+      "turnout": 46.19,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 38.5
+        },
+        {
+          "party": "CPRF",
+          "value": 30.09
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.85
+        },
+        {
+          "party": "LDPR",
+          "value": 7.85
+        },
+        {
+          "party": "New People",
+          "value": 4.92
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.19
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.36
+        },
+        {
+          "party": "RPSS",
+          "value": 1.23
+        },
+        {
+          "party": "Greens",
+          "value": 1.01
+        },
+        {
+          "party": "Rodina",
+          "value": 0.55
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.49
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.45
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.15
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.08
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "18": {
+      "date": "2021-09-19",
+      "turnout": 83.68,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 85.18
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.13
+        },
+        {
+          "party": "CPRF",
+          "value": 3.65
+        },
+        {
+          "party": "LDPR",
+          "value": 1.77
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.84
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.63
+        },
+        {
+          "party": "New People",
+          "value": 0.6
+        },
+        {
+          "party": "RPSS",
+          "value": 0.32
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.24
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.18
+        },
+        {
+          "party": "Rodina",
+          "value": 0.17
+        },
+        {
+          "party": "Greens",
+          "value": 0.16
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.13
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "19": {
+      "date": "2021-09-19",
+      "turnout": 36.99,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 35.53
+        },
+        {
+          "party": "CPRF",
+          "value": 27.81
+        },
+        {
+          "party": "New People",
+          "value": 9.81
+        },
+        {
+          "party": "LDPR",
+          "value": 8.58
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.67
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.74
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.4
+        },
+        {
+          "party": "Greens",
+          "value": 1.04
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.86
+        },
+        {
+          "party": "RPSS",
+          "value": 0.76
+        },
+        {
+          "party": "Rodina",
+          "value": 0.73
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.61
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.33
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.26
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "20": {
+      "date": "2021-09-19",
+      "turnout": 38.26,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 36.24
+        },
+        {
+          "party": "CPRF",
+          "value": 28.02
+        },
+        {
+          "party": "LDPR",
+          "value": 9.38
+        },
+        {
+          "party": "A Just Russia",
+          "value": 7.63
+        },
+        {
+          "party": "New People",
+          "value": 5.9
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.44
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.81
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.43
+        },
+        {
+          "party": "Rodina",
+          "value": 1.01
+        },
+        {
+          "party": "Greens",
+          "value": 0.87
+        },
+        {
+          "party": "RPSS",
+          "value": 0.74
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.6
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.32
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.1
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "21": {
+      "date": "2021-09-19",
+      "turnout": 85.78,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 79.2
+        },
+        {
+          "party": "CPRF",
+          "value": 16.69
+        },
+        {
+          "party": "A Just Russia",
+          "value": 2.9
+        },
+        {
+          "party": "LDPR",
+          "value": 0.35
+        },
+        {
+          "party": "Greens",
+          "value": 0.15
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.08
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.07
+        },
+        {
+          "party": "New People",
+          "value": 0.07
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.07
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.06
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.06
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.06
+        },
+        {
+          "party": "Rodina",
+          "value": 0.06
+        },
+        {
+          "party": "RPSS",
+          "value": 0.06
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "22": {
+      "date": "2021-09-19",
+      "turnout": 46.15,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 41.12
+        },
+        {
+          "party": "CPRF",
+          "value": 20.17
+        },
+        {
+          "party": "LDPR",
+          "value": 9.59
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.96
+        },
+        {
+          "party": "New People",
+          "value": 6.17
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.6
+        },
+        {
+          "party": "Yabloko",
+          "value": 2.01
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.11
+        },
+        {
+          "party": "Rodina",
+          "value": 1.04
+        },
+        {
+          "party": "RPSS",
+          "value": 0.89
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.87
+        },
+        {
+          "party": "Greens",
+          "value": 0.86
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.36
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "23": {
+      "date": "2021-09-19",
+      "turnout": 50.01,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 39.52
+        },
+        {
+          "party": "CPRF",
+          "value": 25.97
+        },
+        {
+          "party": "New People",
+          "value": 12.23
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.86
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.64
+        },
+        {
+          "party": "LDPR",
+          "value": 3.44
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.89
+        },
+        {
+          "party": "RPSS",
+          "value": 0.89
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.85
+        },
+        {
+          "party": "Greens",
+          "value": 0.77
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.56
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.54
+        },
+        {
+          "party": "Rodina",
+          "value": 0.39
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.18
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "24": {
+      "date": "2021-09-19",
+      "turnout": 44.18,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 36.33
+        },
+        {
+          "party": "CPRF",
+          "value": 22.02
+        },
+        {
+          "party": "A Just Russia",
+          "value": 10.81
+        },
+        {
+          "party": "LDPR",
+          "value": 9.44
+        },
+        {
+          "party": "New People",
+          "value": 8.05
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 4.26
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.37
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.2
+        },
+        {
+          "party": "Greens",
+          "value": 1.05
+        },
+        {
+          "party": "RPSS",
+          "value": 0.91
+        },
+        {
+          "party": "Rodina",
+          "value": 0.78
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.73
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.41
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "25": {
+      "date": "2021-09-19",
+      "turnout": 42.37,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 34.76
+        },
+        {
+          "party": "CPRF",
+          "value": 23.87
+        },
+        {
+          "party": "LDPR",
+          "value": 11.66
+        },
+        {
+          "party": "New People",
+          "value": 8.75
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.92
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.59
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.1
+        },
+        {
+          "party": "Greens",
+          "value": 1.11
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.91
+        },
+        {
+          "party": "RPSS",
+          "value": 0.79
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.77
+        },
+        {
+          "party": "Rodina",
+          "value": 0.63
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.32
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.14
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "26": {
+      "date": "2021-09-19",
+      "turnout": 89.36,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 80.06
+        },
+        {
+          "party": "CPRF",
+          "value": 13.02
+        },
+        {
+          "party": "A Just Russia",
+          "value": 2.01
+        },
+        {
+          "party": "LDPR",
+          "value": 1.88
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.62
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.58
+        },
+        {
+          "party": "New People",
+          "value": 0.33
+        },
+        {
+          "party": "RPSS",
+          "value": 0.22
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.21
+        },
+        {
+          "party": "Rodina",
+          "value": 0.19
+        },
+        {
+          "party": "Greens",
+          "value": 0.18
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.18
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.12
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.05
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "27": {
+      "date": "2021-09-19",
+      "turnout": 39.72,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 31.69
+        },
+        {
+          "party": "CPRF",
+          "value": 16.01
+        },
+        {
+          "party": "A Just Russia",
+          "value": 11.73
+        },
+        {
+          "party": "LDPR",
+          "value": 9.77
+        },
+        {
+          "party": "Yabloko",
+          "value": 7.47
+        },
+        {
+          "party": "New People",
+          "value": 7
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 4.7
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.32
+        },
+        {
+          "party": "Green Alternative",
+          "value": 1.53
+        },
+        {
+          "party": "Party of Growth",
+          "value": 1.39
+        },
+        {
+          "party": "RPSS",
+          "value": 1.09
+        },
+        {
+          "party": "Greens",
+          "value": 0.92
+        },
+        {
+          "party": "Rodina",
+          "value": 0.89
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.1
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "28": {
+      "date": "2021-09-19",
+      "turnout": 73.51,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 70.75
+        },
+        {
+          "party": "CPRF",
+          "value": 9.35
+        },
+        {
+          "party": "LDPR",
+          "value": 6.24
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.69
+        },
+        {
+          "party": "New People",
+          "value": 1.85
+        },
+        {
+          "party": "Greens",
+          "value": 0.98
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.64
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.48
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.44
+        },
+        {
+          "party": "Rodina",
+          "value": 0.25
+        },
+        {
+          "party": "RPSS",
+          "value": 0.24
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.21
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.18
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.08
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "29": {
+      "date": "2021-09-19",
+      "turnout": 44.31,
+      "provisional": false,
+      "results": [
+        {
+          "party": "CPRF",
+          "value": 26.51
+        },
+        {
+          "party": "United Russia",
+          "value": 24.51
+        },
+        {
+          "party": "LDPR",
+          "value": 16.18
+        },
+        {
+          "party": "New People",
+          "value": 7.72
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.46
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 5.74
+        },
+        {
+          "party": "RPSS",
+          "value": 3.26
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.75
+        },
+        {
+          "party": "Greens",
+          "value": 1.12
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.1
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.94
+        },
+        {
+          "party": "Rodina",
+          "value": 0.87
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.5
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.15
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "30": {
+      "date": "2021-09-19",
+      "turnout": 37.55,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 33.36
+        },
+        {
+          "party": "CPRF",
+          "value": 29.85
+        },
+        {
+          "party": "New People",
+          "value": 9.85
+        },
+        {
+          "party": "LDPR",
+          "value": 8.02
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.58
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.9
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.91
+        },
+        {
+          "party": "Greens",
+          "value": 1.17
+        },
+        {
+          "party": "Rodina",
+          "value": 0.79
+        },
+        {
+          "party": "RPSS",
+          "value": 0.79
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.69
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.64
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.27
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.25
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "31": {
+      "date": "2021-09-19",
+      "turnout": 46.62,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 42.3
+        },
+        {
+          "party": "CPRF",
+          "value": 17.73
+        },
+        {
+          "party": "LDPR",
+          "value": 12.38
+        },
+        {
+          "party": "New People",
+          "value": 6.39
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.78
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 4.03
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.82
+        },
+        {
+          "party": "RPSS",
+          "value": 1.63
+        },
+        {
+          "party": "Greens",
+          "value": 0.93
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.88
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.73
+        },
+        {
+          "party": "Rodina",
+          "value": 0.66
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.46
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.23
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "32": {
+      "date": "2021-09-19",
+      "turnout": 45.04,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 29.54
+        },
+        {
+          "party": "A Just Russia",
+          "value": 18.44
+        },
+        {
+          "party": "CPRF",
+          "value": 18.27
+        },
+        {
+          "party": "LDPR",
+          "value": 12.8
+        },
+        {
+          "party": "New People",
+          "value": 8.18
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.86
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.08
+        },
+        {
+          "party": "Greens",
+          "value": 0.82
+        },
+        {
+          "party": "Rodina",
+          "value": 0.82
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.8
+        },
+        {
+          "party": "RPSS",
+          "value": 0.67
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.62
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.3
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.1
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "33": {
+      "date": "2021-09-19",
+      "turnout": 39.47,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 29.44
+        },
+        {
+          "party": "CPRF",
+          "value": 26.88
+        },
+        {
+          "party": "LDPR",
+          "value": 11.96
+        },
+        {
+          "party": "New People",
+          "value": 9.57
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.33
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.6
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.45
+        },
+        {
+          "party": "Green Alternative",
+          "value": 1.34
+        },
+        {
+          "party": "Greens",
+          "value": 1.18
+        },
+        {
+          "party": "Rodina",
+          "value": 0.95
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.87
+        },
+        {
+          "party": "RPSS",
+          "value": 0.84
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.33
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "34": {
+      "date": "2021-09-19",
+      "turnout": 39.54,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 30.26
+        },
+        {
+          "party": "CPRF",
+          "value": 28.47
+        },
+        {
+          "party": "A Just Russia",
+          "value": 11.42
+        },
+        {
+          "party": "LDPR",
+          "value": 9.93
+        },
+        {
+          "party": "New People",
+          "value": 8.5
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.88
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.18
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.94
+        },
+        {
+          "party": "Rodina",
+          "value": 0.91
+        },
+        {
+          "party": "Greens",
+          "value": 0.73
+        },
+        {
+          "party": "RPSS",
+          "value": 0.73
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.58
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.39
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.18
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "35": {
+      "date": "2021-09-19",
+      "turnout": 65.37,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 60.98
+        },
+        {
+          "party": "CPRF",
+          "value": 15.52
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.34
+        },
+        {
+          "party": "LDPR",
+          "value": 5.6
+        },
+        {
+          "party": "New People",
+          "value": 4.67
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 1.36
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.81
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.75
+        },
+        {
+          "party": "RPSS",
+          "value": 0.58
+        },
+        {
+          "party": "Greens",
+          "value": 0.55
+        },
+        {
+          "party": "Rodina",
+          "value": 0.53
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.52
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.38
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.19
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "36": {
+      "date": "2021-09-19",
+      "turnout": 41.61,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 34.64
+        },
+        {
+          "party": "CPRF",
+          "value": 22.88
+        },
+        {
+          "party": "LDPR",
+          "value": 13.68
+        },
+        {
+          "party": "New People",
+          "value": 7.84
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.14
+        },
+        {
+          "party": "Greens",
+          "value": 3.39
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.95
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.13
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.9
+        },
+        {
+          "party": "Rodina",
+          "value": 0.81
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.76
+        },
+        {
+          "party": "RPSS",
+          "value": 0.63
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.26
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "37": {
+      "date": "2021-09-19",
+      "turnout": 48.28,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 36.07
+        },
+        {
+          "party": "CPRF",
+          "value": 23.45
+        },
+        {
+          "party": "LDPR",
+          "value": 11.78
+        },
+        {
+          "party": "A Just Russia",
+          "value": 10.51
+        },
+        {
+          "party": "New People",
+          "value": 6.61
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 4.17
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.54
+        },
+        {
+          "party": "RPSS",
+          "value": 0.73
+        },
+        {
+          "party": "Greens",
+          "value": 0.67
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.65
+        },
+        {
+          "party": "Rodina",
+          "value": 0.57
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.51
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.22
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.1
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "38": {
+      "date": "2021-09-19",
+      "turnout": 47.01,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 43.48
+        },
+        {
+          "party": "CPRF",
+          "value": 19.9
+        },
+        {
+          "party": "LDPR",
+          "value": 10.67
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.04
+        },
+        {
+          "party": "New People",
+          "value": 6.82
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.61
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.45
+        },
+        {
+          "party": "RPSS",
+          "value": 0.73
+        },
+        {
+          "party": "Greens",
+          "value": 0.71
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.65
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.64
+        },
+        {
+          "party": "Rodina",
+          "value": 0.57
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.3
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.2
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "39": {
+      "date": "2021-09-19",
+      "turnout": 44.27,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 43.08
+        },
+        {
+          "party": "CPRF",
+          "value": 18.41
+        },
+        {
+          "party": "A Just Russia",
+          "value": 9.76
+        },
+        {
+          "party": "LDPR",
+          "value": 8.34
+        },
+        {
+          "party": "New People",
+          "value": 6.59
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.04
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.81
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.49
+        },
+        {
+          "party": "Rodina",
+          "value": 1.02
+        },
+        {
+          "party": "Greens",
+          "value": 0.94
+        },
+        {
+          "party": "RPSS",
+          "value": 0.82
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.79
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.68
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.19
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "40": {
+      "date": "2021-09-19",
+      "turnout": 52.72,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 48.65
+        },
+        {
+          "party": "CPRF",
+          "value": 21.15
+        },
+        {
+          "party": "LDPR",
+          "value": 7.76
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.96
+        },
+        {
+          "party": "New People",
+          "value": 4.81
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.56
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.1
+        },
+        {
+          "party": "Rodina",
+          "value": 0.9
+        },
+        {
+          "party": "Greens",
+          "value": 0.83
+        },
+        {
+          "party": "RPSS",
+          "value": 0.63
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.56
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.54
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.29
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "41": {
+      "date": "2021-09-19",
+      "turnout": 43.9,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 50.08
+        },
+        {
+          "party": "CPRF",
+          "value": 20.67
+        },
+        {
+          "party": "LDPR",
+          "value": 8.95
+        },
+        {
+          "party": "New People",
+          "value": 5.23
+        },
+        {
+          "party": "A Just Russia",
+          "value": 4.91
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.55
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.19
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.91
+        },
+        {
+          "party": "Greens",
+          "value": 0.84
+        },
+        {
+          "party": "RPSS",
+          "value": 0.79
+        },
+        {
+          "party": "Rodina",
+          "value": 0.63
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.61
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.24
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.15
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "42": {
+      "date": "2021-09-19",
+      "turnout": 46.11,
+      "provisional": false,
+      "results": [
+        {
+          "party": "CPRF",
+          "value": 36.3
+        },
+        {
+          "party": "United Russia",
+          "value": 33.43
+        },
+        {
+          "party": "LDPR",
+          "value": 7.94
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.48
+        },
+        {
+          "party": "New People",
+          "value": 6.15
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.64
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.21
+        },
+        {
+          "party": "Greens",
+          "value": 0.7
+        },
+        {
+          "party": "Rodina",
+          "value": 0.67
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.57
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.52
+        },
+        {
+          "party": "RPSS",
+          "value": 0.52
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.31
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "43": {
+      "date": "2021-09-19",
+      "turnout": 65.11,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 66
+        },
+        {
+          "party": "CPRF",
+          "value": 13
+        },
+        {
+          "party": "LDPR",
+          "value": 7.75
+        },
+        {
+          "party": "A Just Russia",
+          "value": 4.3
+        },
+        {
+          "party": "New People",
+          "value": 3
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 1.39
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.93
+        },
+        {
+          "party": "Greens",
+          "value": 0.43
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.42
+        },
+        {
+          "party": "RPSS",
+          "value": 0.4
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.32
+        },
+        {
+          "party": "Rodina",
+          "value": 0.31
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.21
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "44": {
+      "date": "2021-09-19",
+      "turnout": 50.26,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 36.97
+        },
+        {
+          "party": "CPRF",
+          "value": 22.67
+        },
+        {
+          "party": "A Just Russia",
+          "value": 7.34
+        },
+        {
+          "party": "New People",
+          "value": 7.09
+        },
+        {
+          "party": "LDPR",
+          "value": 7.08
+        },
+        {
+          "party": "Yabloko",
+          "value": 4.9
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.85
+        },
+        {
+          "party": "Greens",
+          "value": 2.4
+        },
+        {
+          "party": "RPSS",
+          "value": 1.97
+        },
+        {
+          "party": "Green Alternative",
+          "value": 1.75
+        },
+        {
+          "party": "Rodina",
+          "value": 1.22
+        },
+        {
+          "party": "Party of Growth",
+          "value": 1.11
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.1
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.27
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "45": {
+      "date": "2021-09-19",
+      "turnout": 45.85,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 45.68
+        },
+        {
+          "party": "CPRF",
+          "value": 20.65
+        },
+        {
+          "party": "LDPR",
+          "value": 7.47
+        },
+        {
+          "party": "A Just Russia",
+          "value": 7.18
+        },
+        {
+          "party": "New People",
+          "value": 5.16
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.89
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.65
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.51
+        },
+        {
+          "party": "Greens",
+          "value": 1.22
+        },
+        {
+          "party": "Rodina",
+          "value": 1.01
+        },
+        {
+          "party": "RPSS",
+          "value": 1
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.88
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.57
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.19
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "46": {
+      "date": "2021-09-19",
+      "turnout": 43.84,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 35.81
+        },
+        {
+          "party": "CPRF",
+          "value": 17.81
+        },
+        {
+          "party": "A Just Russia",
+          "value": 11.21
+        },
+        {
+          "party": "LDPR",
+          "value": 11.06
+        },
+        {
+          "party": "New People",
+          "value": 8.56
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 5.58
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.49
+        },
+        {
+          "party": "Greens",
+          "value": 1.49
+        },
+        {
+          "party": "Green Alternative",
+          "value": 1.22
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.09
+        },
+        {
+          "party": "RPSS",
+          "value": 1
+        },
+        {
+          "party": "Rodina",
+          "value": 0.73
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.44
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.18
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "47": {
+      "date": "2021-09-19",
+      "turnout": 42.61,
+      "provisional": false,
+      "results": [
+        {
+          "party": "CPRF",
+          "value": 31.98
+        },
+        {
+          "party": "United Russia",
+          "value": 29.06
+        },
+        {
+          "party": "LDPR",
+          "value": 11.19
+        },
+        {
+          "party": "A Just Russia",
+          "value": 7.97
+        },
+        {
+          "party": "New People",
+          "value": 6.48
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.02
+        },
+        {
+          "party": "Greens",
+          "value": 2
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.58
+        },
+        {
+          "party": "Rodina",
+          "value": 1.2
+        },
+        {
+          "party": "Green Alternative",
+          "value": 1.05
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.79
+        },
+        {
+          "party": "RPSS",
+          "value": 0.71
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.4
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.09
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "48": {
+      "date": "2021-09-19",
+      "turnout": 48.48,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 49.95
+        },
+        {
+          "party": "CPRF",
+          "value": 19.21
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.55
+        },
+        {
+          "party": "LDPR",
+          "value": 7.14
+        },
+        {
+          "party": "New People",
+          "value": 5.18
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.07
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.14
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.93
+        },
+        {
+          "party": "Greens",
+          "value": 0.76
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.59
+        },
+        {
+          "party": "RPSS",
+          "value": 0.59
+        },
+        {
+          "party": "Rodina",
+          "value": 0.56
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.52
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.11
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "49": {
+      "date": "2021-09-19",
+      "turnout": 86.61,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 71.12
+        },
+        {
+          "party": "CPRF",
+          "value": 11.49
+        },
+        {
+          "party": "A Just Russia",
+          "value": 10.54
+        },
+        {
+          "party": "LDPR",
+          "value": 1.43
+        },
+        {
+          "party": "Rodina",
+          "value": 0.73
+        },
+        {
+          "party": "New People",
+          "value": 0.56
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.51
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.5
+        },
+        {
+          "party": "Greens",
+          "value": 0.41
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.37
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.36
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.34
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.32
+        },
+        {
+          "party": "RPSS",
+          "value": 0.25
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "50": {
+      "date": "2021-09-19",
+      "turnout": 41.13,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 32.51
+        },
+        {
+          "party": "CPRF",
+          "value": 21.33
+        },
+        {
+          "party": "A Just Russia",
+          "value": 14.37
+        },
+        {
+          "party": "LDPR",
+          "value": 9.24
+        },
+        {
+          "party": "New People",
+          "value": 7.63
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.53
+        },
+        {
+          "party": "Yabloko",
+          "value": 2.95
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.2
+        },
+        {
+          "party": "Greens",
+          "value": 0.85
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.82
+        },
+        {
+          "party": "RPSS",
+          "value": 0.71
+        },
+        {
+          "party": "Rodina",
+          "value": 0.68
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.36
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "51": {
+      "date": "2021-09-19",
+      "turnout": 37.74,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 35.25
+        },
+        {
+          "party": "CPRF",
+          "value": 25.86
+        },
+        {
+          "party": "LDPR",
+          "value": 9.61
+        },
+        {
+          "party": "New People",
+          "value": 8.71
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.94
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.53
+        },
+        {
+          "party": "Greens",
+          "value": 1.7
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.37
+        },
+        {
+          "party": "Rodina",
+          "value": 1.23
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.18
+        },
+        {
+          "party": "RPSS",
+          "value": 0.76
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.68
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.46
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.17
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "52": {
+      "date": "2021-09-19",
+      "turnout": 41.38,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 32.9
+        },
+        {
+          "party": "CPRF",
+          "value": 31.19
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.26
+        },
+        {
+          "party": "New People",
+          "value": 7.62
+        },
+        {
+          "party": "LDPR",
+          "value": 7.22
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.21
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.31
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.83
+        },
+        {
+          "party": "Greens",
+          "value": 0.67
+        },
+        {
+          "party": "RPSS",
+          "value": 0.66
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.56
+        },
+        {
+          "party": "Rodina",
+          "value": 0.53
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.28
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "53": {
+      "date": "2021-09-19",
+      "turnout": 49.99,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 38.83
+        },
+        {
+          "party": "CPRF",
+          "value": 21.86
+        },
+        {
+          "party": "A Just Russia",
+          "value": 10.16
+        },
+        {
+          "party": "LDPR",
+          "value": 8.8
+        },
+        {
+          "party": "New People",
+          "value": 5.99
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 4.27
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.94
+        },
+        {
+          "party": "Greens",
+          "value": 1.03
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.77
+        },
+        {
+          "party": "RPSS",
+          "value": 0.73
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.68
+        },
+        {
+          "party": "Rodina",
+          "value": 0.61
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.34
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.16
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "54": {
+      "date": "2021-09-19",
+      "turnout": 45.88,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 38.36
+        },
+        {
+          "party": "CPRF",
+          "value": 26.16
+        },
+        {
+          "party": "LDPR",
+          "value": 9.44
+        },
+        {
+          "party": "A Just Russia",
+          "value": 7.58
+        },
+        {
+          "party": "New People",
+          "value": 6.03
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.77
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.14
+        },
+        {
+          "party": "RPSS",
+          "value": 0.63
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.6
+        },
+        {
+          "party": "Greens",
+          "value": 0.57
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.52
+        },
+        {
+          "party": "Rodina",
+          "value": 0.51
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.18
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "55": {
+      "date": "2021-09-19",
+      "turnout": 57.52,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 56.22
+        },
+        {
+          "party": "CPRF",
+          "value": 17.24
+        },
+        {
+          "party": "LDPR",
+          "value": 7.5
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.09
+        },
+        {
+          "party": "New People",
+          "value": 4.89
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.24
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.3
+        },
+        {
+          "party": "RPSS",
+          "value": 0.67
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.67
+        },
+        {
+          "party": "Greens",
+          "value": 0.61
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.48
+        },
+        {
+          "party": "Rodina",
+          "value": 0.46
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.22
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.09
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "56": {
+      "date": "2021-09-19",
+      "turnout": 39,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 33.56
+        },
+        {
+          "party": "CPRF",
+          "value": 22.75
+        },
+        {
+          "party": "A Just Russia",
+          "value": 10.79
+        },
+        {
+          "party": "LDPR",
+          "value": 9.85
+        },
+        {
+          "party": "New People",
+          "value": 8.64
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.36
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.58
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.36
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.91
+        },
+        {
+          "party": "RPSS",
+          "value": 0.69
+        },
+        {
+          "party": "Greens",
+          "value": 0.68
+        },
+        {
+          "party": "Rodina",
+          "value": 0.64
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.29
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.15
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "57": {
+      "date": "2021-09-19",
+      "turnout": 42.6,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 37.42
+        },
+        {
+          "party": "CPRF",
+          "value": 28.24
+        },
+        {
+          "party": "LDPR",
+          "value": 7.71
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.19
+        },
+        {
+          "party": "New People",
+          "value": 5.59
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 4.56
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.93
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.82
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.81
+        },
+        {
+          "party": "Greens",
+          "value": 0.8
+        },
+        {
+          "party": "RPSS",
+          "value": 0.77
+        },
+        {
+          "party": "Rodina",
+          "value": 0.65
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.57
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "58": {
+      "date": "2021-09-19",
+      "turnout": 44.81,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 40.07
+        },
+        {
+          "party": "CPRF",
+          "value": 21.52
+        },
+        {
+          "party": "A Just Russia",
+          "value": 9.05
+        },
+        {
+          "party": "LDPR",
+          "value": 8.64
+        },
+        {
+          "party": "New People",
+          "value": 6.23
+        },
+        {
+          "party": "Yabloko",
+          "value": 4.76
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.86
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.08
+        },
+        {
+          "party": "Rodina",
+          "value": 0.99
+        },
+        {
+          "party": "RPSS",
+          "value": 0.71
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.63
+        },
+        {
+          "party": "Greens",
+          "value": 0.62
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.45
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "59": {
+      "date": "2021-09-19",
+      "turnout": 48.8,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 51.59
+        },
+        {
+          "party": "CPRF",
+          "value": 20.19
+        },
+        {
+          "party": "LDPR",
+          "value": 6.97
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.42
+        },
+        {
+          "party": "New People",
+          "value": 5.17
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.21
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.39
+        },
+        {
+          "party": "Rodina",
+          "value": 1.02
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.91
+        },
+        {
+          "party": "Greens",
+          "value": 0.74
+        },
+        {
+          "party": "RPSS",
+          "value": 0.71
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.58
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.4
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "60": {
+      "date": "2021-09-19",
+      "turnout": 48.03,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 47.79
+        },
+        {
+          "party": "CPRF",
+          "value": 19.99
+        },
+        {
+          "party": "LDPR",
+          "value": 9.13
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.22
+        },
+        {
+          "party": "New People",
+          "value": 5.89
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.63
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.21
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.84
+        },
+        {
+          "party": "Greens",
+          "value": 0.72
+        },
+        {
+          "party": "RPSS",
+          "value": 0.61
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.54
+        },
+        {
+          "party": "Rodina",
+          "value": 0.54
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.23
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.09
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "61": {
+      "date": "2021-09-19",
+      "turnout": 51.23,
+      "provisional": false,
+      "results": [
+        {
+          "party": "CPRF",
+          "value": 35.15
+        },
+        {
+          "party": "United Russia",
+          "value": 33.22
+        },
+        {
+          "party": "New People",
+          "value": 9.87
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.19
+        },
+        {
+          "party": "LDPR",
+          "value": 5.14
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 1.54
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.27
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.05
+        },
+        {
+          "party": "Greens",
+          "value": 0.73
+        },
+        {
+          "party": "RPSS",
+          "value": 0.56
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.49
+        },
+        {
+          "party": "Rodina",
+          "value": 0.34
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.24
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.18
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "62": {
+      "date": "2021-09-19",
+      "turnout": 39.94,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 35.73
+        },
+        {
+          "party": "CPRF",
+          "value": 28.63
+        },
+        {
+          "party": "New People",
+          "value": 9.07
+        },
+        {
+          "party": "LDPR",
+          "value": 8.89
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.2
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.71
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.86
+        },
+        {
+          "party": "Greens",
+          "value": 1.03
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.99
+        },
+        {
+          "party": "Rodina",
+          "value": 0.94
+        },
+        {
+          "party": "RPSS",
+          "value": 0.88
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.81
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.3
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.17
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "63": {
+      "date": "2021-09-19",
+      "turnout": 46.77,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 44.3
+        },
+        {
+          "party": "CPRF",
+          "value": 23.29
+        },
+        {
+          "party": "LDPR",
+          "value": 7.45
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.32
+        },
+        {
+          "party": "New People",
+          "value": 5.62
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.84
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.29
+        },
+        {
+          "party": "Greens",
+          "value": 1.45
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.97
+        },
+        {
+          "party": "RPSS",
+          "value": 0.87
+        },
+        {
+          "party": "Rodina",
+          "value": 0.67
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.6
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.39
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.14
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "64": {
+      "date": "2021-09-19",
+      "turnout": 55.71,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 59.84
+        },
+        {
+          "party": "CPRF",
+          "value": 20.74
+        },
+        {
+          "party": "LDPR",
+          "value": 5.15
+        },
+        {
+          "party": "A Just Russia",
+          "value": 4.1
+        },
+        {
+          "party": "New People",
+          "value": 2.85
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 1.75
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.04
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.75
+        },
+        {
+          "party": "Greens",
+          "value": 0.52
+        },
+        {
+          "party": "RPSS",
+          "value": 0.49
+        },
+        {
+          "party": "Rodina",
+          "value": 0.46
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.37
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.2
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.1
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "65": {
+      "date": "2021-09-19",
+      "turnout": 49.26,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 56.45
+        },
+        {
+          "party": "CPRF",
+          "value": 12.62
+        },
+        {
+          "party": "LDPR",
+          "value": 8.57
+        },
+        {
+          "party": "A Just Russia",
+          "value": 7.55
+        },
+        {
+          "party": "New People",
+          "value": 5.3
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.15
+        },
+        {
+          "party": "Greens",
+          "value": 1.58
+        },
+        {
+          "party": "Rodina",
+          "value": 0.77
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.74
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.72
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.66
+        },
+        {
+          "party": "RPSS",
+          "value": 0.63
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.33
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.14
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "66": {
+      "date": "2021-09-19",
+      "turnout": 41.87,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 39.94
+        },
+        {
+          "party": "CPRF",
+          "value": 22.81
+        },
+        {
+          "party": "LDPR",
+          "value": 11.25
+        },
+        {
+          "party": "A Just Russia",
+          "value": 7.58
+        },
+        {
+          "party": "New People",
+          "value": 5.97
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.44
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.79
+        },
+        {
+          "party": "Rodina",
+          "value": 0.98
+        },
+        {
+          "party": "RPSS",
+          "value": 0.89
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.86
+        },
+        {
+          "party": "Greens",
+          "value": 0.76
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.69
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.42
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "67": {
+      "date": "2021-09-19",
+      "turnout": 67.12,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 61.83
+        },
+        {
+          "party": "CPRF",
+          "value": 14.92
+        },
+        {
+          "party": "A Just Russia",
+          "value": 9.3
+        },
+        {
+          "party": "LDPR",
+          "value": 4.79
+        },
+        {
+          "party": "New People",
+          "value": 2.63
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 1.47
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.9
+        },
+        {
+          "party": "RPSS",
+          "value": 0.46
+        },
+        {
+          "party": "Greens",
+          "value": 0.42
+        },
+        {
+          "party": "Rodina",
+          "value": 0.41
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.38
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.34
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.2
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "68": {
+      "date": "2021-09-19",
+      "turnout": 48.47,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 34.71
+        },
+        {
+          "party": "CPRF",
+          "value": 21.31
+        },
+        {
+          "party": "A Just Russia",
+          "value": 12.85
+        },
+        {
+          "party": "LDPR",
+          "value": 8.59
+        },
+        {
+          "party": "New People",
+          "value": 8.23
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.08
+        },
+        {
+          "party": "Yabloko",
+          "value": 2.13
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.02
+        },
+        {
+          "party": "Greens",
+          "value": 0.79
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.75
+        },
+        {
+          "party": "RPSS",
+          "value": 0.75
+        },
+        {
+          "party": "Rodina",
+          "value": 0.69
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.45
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.14
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "69": {
+      "date": "2021-09-19",
+      "turnout": 58.88,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 56.92
+        },
+        {
+          "party": "CPRF",
+          "value": 15
+        },
+        {
+          "party": "Rodina",
+          "value": 10.36
+        },
+        {
+          "party": "LDPR",
+          "value": 4.87
+        },
+        {
+          "party": "A Just Russia",
+          "value": 4.72
+        },
+        {
+          "party": "New People",
+          "value": 2.45
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 1.36
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.73
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.5
+        },
+        {
+          "party": "RPSS",
+          "value": 0.47
+        },
+        {
+          "party": "Greens",
+          "value": 0.4
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.36
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.25
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.1
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "70": {
+      "date": "2021-09-19",
+      "turnout": 78.92,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 79.01
+        },
+        {
+          "party": "CPRF",
+          "value": 9.64
+        },
+        {
+          "party": "LDPR",
+          "value": 2.82
+        },
+        {
+          "party": "A Just Russia",
+          "value": 2.69
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.33
+        },
+        {
+          "party": "New People",
+          "value": 1.01
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.54
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.5
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.37
+        },
+        {
+          "party": "RPSS",
+          "value": 0.28
+        },
+        {
+          "party": "Greens",
+          "value": 0.27
+        },
+        {
+          "party": "Rodina",
+          "value": 0.22
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.21
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.15
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "71": {
+      "date": "2021-09-19",
+      "turnout": 41.47,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 32.7
+        },
+        {
+          "party": "CPRF",
+          "value": 22.43
+        },
+        {
+          "party": "LDPR",
+          "value": 12.06
+        },
+        {
+          "party": "New People",
+          "value": 9.36
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.52
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.07
+        },
+        {
+          "party": "Yabloko",
+          "value": 2.5
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.23
+        },
+        {
+          "party": "Party of Growth",
+          "value": 1.45
+        },
+        {
+          "party": "Greens",
+          "value": 0.8
+        },
+        {
+          "party": "Rodina",
+          "value": 0.69
+        },
+        {
+          "party": "RPSS",
+          "value": 0.67
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.65
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.11
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "72": {
+      "date": "2021-09-19",
+      "turnout": 53.17,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 52.88
+        },
+        {
+          "party": "CPRF",
+          "value": 16.85
+        },
+        {
+          "party": "A Just Russia",
+          "value": 7.49
+        },
+        {
+          "party": "LDPR",
+          "value": 6.61
+        },
+        {
+          "party": "New People",
+          "value": 5.44
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.09
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.2
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.04
+        },
+        {
+          "party": "Rodina",
+          "value": 0.88
+        },
+        {
+          "party": "Greens",
+          "value": 0.84
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.73
+        },
+        {
+          "party": "RPSS",
+          "value": 0.66
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.31
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "73": {
+      "date": "2021-09-19",
+      "turnout": 83.28,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 85.34
+        },
+        {
+          "party": "CPRF",
+          "value": 4.2
+        },
+        {
+          "party": "A Just Russia",
+          "value": 3
+        },
+        {
+          "party": "New People",
+          "value": 2.28
+        },
+        {
+          "party": "LDPR",
+          "value": 1.82
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.57
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.55
+        },
+        {
+          "party": "Rodina",
+          "value": 0.43
+        },
+        {
+          "party": "Greens",
+          "value": 0.32
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.19
+        },
+        {
+          "party": "RPSS",
+          "value": 0.19
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.17
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.13
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.05
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "74": {
+      "date": "2021-09-19",
+      "turnout": 42.46,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 35.4
+        },
+        {
+          "party": "CPRF",
+          "value": 23.04
+        },
+        {
+          "party": "A Just Russia",
+          "value": 9.97
+        },
+        {
+          "party": "LDPR",
+          "value": 9.88
+        },
+        {
+          "party": "New People",
+          "value": 6.61
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.78
+        },
+        {
+          "party": "Rodina",
+          "value": 2.82
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.86
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.18
+        },
+        {
+          "party": "RPSS",
+          "value": 0.89
+        },
+        {
+          "party": "Greens",
+          "value": 0.8
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.72
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.38
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "75": {
+      "date": "2021-09-19",
+      "turnout": 61.54,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 51.33
+        },
+        {
+          "party": "CPRF",
+          "value": 13.5
+        },
+        {
+          "party": "LDPR",
+          "value": 11.68
+        },
+        {
+          "party": "A Just Russia",
+          "value": 10.24
+        },
+        {
+          "party": "New People",
+          "value": 4.48
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.14
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.21
+        },
+        {
+          "party": "Greens",
+          "value": 0.69
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.68
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.57
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.51
+        },
+        {
+          "party": "RPSS",
+          "value": 0.51
+        },
+        {
+          "party": "Rodina",
+          "value": 0.45
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.14
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "76": {
+      "date": "2021-09-19",
+      "turnout": 47.45,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 35.63
+        },
+        {
+          "party": "CPRF",
+          "value": 25.31
+        },
+        {
+          "party": "LDPR",
+          "value": 9.64
+        },
+        {
+          "party": "A Just Russia",
+          "value": 9.19
+        },
+        {
+          "party": "New People",
+          "value": 7.37
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 4.41
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.3
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.88
+        },
+        {
+          "party": "Greens",
+          "value": 0.86
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.82
+        },
+        {
+          "party": "Rodina",
+          "value": 0.81
+        },
+        {
+          "party": "RPSS",
+          "value": 0.58
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.31
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.15
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "77": {
+      "date": "2021-09-19",
+      "turnout": 45.88,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 39.03
+        },
+        {
+          "party": "CPRF",
+          "value": 33.14
+        },
+        {
+          "party": "LDPR",
+          "value": 7.4
+        },
+        {
+          "party": "New People",
+          "value": 5.36
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.53
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.71
+        },
+        {
+          "party": "Greens",
+          "value": 0.81
+        },
+        {
+          "party": "RPSS",
+          "value": 0.58
+        },
+        {
+          "party": "Rodina",
+          "value": 0.56
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.54
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.51
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.32
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.15
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "78": {
+      "date": "2021-09-19",
+      "turnout": 37.89,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 37.64
+        },
+        {
+          "party": "CPRF",
+          "value": 25.94
+        },
+        {
+          "party": "LDPR",
+          "value": 9.42
+        },
+        {
+          "party": "A Just Russia",
+          "value": 7.78
+        },
+        {
+          "party": "New People",
+          "value": 7.31
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.09
+        },
+        {
+          "party": "RPSS",
+          "value": 1.37
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.11
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.05
+        },
+        {
+          "party": "Greens",
+          "value": 0.89
+        },
+        {
+          "party": "Rodina",
+          "value": 0.85
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.59
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.44
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.1
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "79": {
+      "date": "2021-09-19",
+      "turnout": 64.97,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 58.43
+        },
+        {
+          "party": "CPRF",
+          "value": 14.77
+        },
+        {
+          "party": "LDPR",
+          "value": 11.12
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.77
+        },
+        {
+          "party": "New People",
+          "value": 3.01
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.11
+        },
+        {
+          "party": "Rodina",
+          "value": 0.75
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.74
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.51
+        },
+        {
+          "party": "RPSS",
+          "value": 0.43
+        },
+        {
+          "party": "Greens",
+          "value": 0.42
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.33
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.33
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.1
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "80": {
+      "date": "2021-09-19",
+      "turnout": 45.53,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 34.31
+        },
+        {
+          "party": "CPRF",
+          "value": 21.69
+        },
+        {
+          "party": "LDPR",
+          "value": 12.46
+        },
+        {
+          "party": "A Just Russia",
+          "value": 10.34
+        },
+        {
+          "party": "New People",
+          "value": 7.55
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 4.78
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.32
+        },
+        {
+          "party": "Greens",
+          "value": 0.93
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.78
+        },
+        {
+          "party": "Rodina",
+          "value": 0.65
+        },
+        {
+          "party": "RPSS",
+          "value": 0.63
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.35
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.11
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "81": {
+      "date": "2021-09-19",
+      "turnout": 53.86,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 55.89
+        },
+        {
+          "party": "CPRF",
+          "value": 19.51
+        },
+        {
+          "party": "LDPR",
+          "value": 6.05
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.21
+        },
+        {
+          "party": "New People",
+          "value": 5.07
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 1.64
+        },
+        {
+          "party": "Rodina",
+          "value": 1.61
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.64
+        },
+        {
+          "party": "Greens",
+          "value": 0.62
+        },
+        {
+          "party": "RPSS",
+          "value": 0.53
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.43
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.2
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.09
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "82": {
+      "date": "2021-09-19",
+      "turnout": 67.41,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 68.92
+        },
+        {
+          "party": "LDPR",
+          "value": 13.49
+        },
+        {
+          "party": "CPRF",
+          "value": 7.16
+        },
+        {
+          "party": "A Just Russia",
+          "value": 4.04
+        },
+        {
+          "party": "New People",
+          "value": 1.2
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.79
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.61
+        },
+        {
+          "party": "Greens",
+          "value": 0.43
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.4
+        },
+        {
+          "party": "RPSS",
+          "value": 0.4
+        },
+        {
+          "party": "Rodina",
+          "value": 0.34
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.34
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.3
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.17
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "83": {
+      "date": "2021-09-19",
+      "turnout": 43.4,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 29.72
+        },
+        {
+          "party": "CPRF",
+          "value": 22.74
+        },
+        {
+          "party": "A Just Russia",
+          "value": 19.2
+        },
+        {
+          "party": "LDPR",
+          "value": 8.97
+        },
+        {
+          "party": "New People",
+          "value": 7.86
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.94
+        },
+        {
+          "party": "Yabloko",
+          "value": 1.5
+        },
+        {
+          "party": "Greens",
+          "value": 1.28
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.2
+        },
+        {
+          "party": "RPSS",
+          "value": 0.97
+        },
+        {
+          "party": "Rodina",
+          "value": 0.79
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.74
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.4
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "84": {
+      "date": "2021-09-19",
+      "turnout": 63.13,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 56.39
+        },
+        {
+          "party": "CPRF",
+          "value": 18.74
+        },
+        {
+          "party": "LDPR",
+          "value": 8.29
+        },
+        {
+          "party": "A Just Russia",
+          "value": 3.56
+        },
+        {
+          "party": "New People",
+          "value": 3.32
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.01
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.37
+        },
+        {
+          "party": "RPSS",
+          "value": 0.65
+        },
+        {
+          "party": "Greens",
+          "value": 0.56
+        },
+        {
+          "party": "Rodina",
+          "value": 0.52
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.47
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.44
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.24
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.16
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "85": {
+      "date": "2021-09-19",
+      "turnout": 39.35,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 38.66
+        },
+        {
+          "party": "CPRF",
+          "value": 20
+        },
+        {
+          "party": "LDPR",
+          "value": 12.15
+        },
+        {
+          "party": "New People",
+          "value": 9.36
+        },
+        {
+          "party": "A Just Russia",
+          "value": 8.34
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.24
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.92
+        },
+        {
+          "party": "Greens",
+          "value": 0.92
+        },
+        {
+          "party": "Rodina",
+          "value": 0.66
+        },
+        {
+          "party": "RPSS",
+          "value": 0.55
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.54
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.48
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.29
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "01": {
+      "date": "2021-09-19",
+      "turnout": 68.21,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 66.45
+        },
+        {
+          "party": "CPRF",
+          "value": 14.57
+        },
+        {
+          "party": "LDPR",
+          "value": 6.54
+        },
+        {
+          "party": "A Just Russia",
+          "value": 3.94
+        },
+        {
+          "party": "New People",
+          "value": 2.78
+        },
+        {
+          "party": "RPSS",
+          "value": 1.03
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 0.96
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.81
+        },
+        {
+          "party": "Greens",
+          "value": 0.38
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.34
+        },
+        {
+          "party": "Rodina",
+          "value": 0.32
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.29
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.17
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.07
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "02": {
+      "date": "2021-09-19",
+      "turnout": 40.95,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 33.67
+        },
+        {
+          "party": "CPRF",
+          "value": 30.54
+        },
+        {
+          "party": "A Just Russia",
+          "value": 9.85
+        },
+        {
+          "party": "LDPR",
+          "value": 9.09
+        },
+        {
+          "party": "New People",
+          "value": 6.09
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.54
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.18
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.98
+        },
+        {
+          "party": "Greens",
+          "value": 0.62
+        },
+        {
+          "party": "Rodina",
+          "value": 0.54
+        },
+        {
+          "party": "RPSS",
+          "value": 0.54
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.47
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.24
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.09
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "03": {
+      "date": "2021-09-19",
+      "turnout": 41.65,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 34.32
+        },
+        {
+          "party": "CPRF",
+          "value": 26.55
+        },
+        {
+          "party": "LDPR",
+          "value": 14.17
+        },
+        {
+          "party": "New People",
+          "value": 7.04
+        },
+        {
+          "party": "A Just Russia",
+          "value": 5.54
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.18
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 2.28
+        },
+        {
+          "party": "Greens",
+          "value": 0.73
+        },
+        {
+          "party": "RPSS",
+          "value": 0.72
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.57
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.55
+        },
+        {
+          "party": "Rodina",
+          "value": 0.52
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.26
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "04": {
+      "date": "2021-09-19",
+      "turnout": 41.58,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 32.21
+        },
+        {
+          "party": "CPRF",
+          "value": 18.7
+        },
+        {
+          "party": "LDPR",
+          "value": 12.92
+        },
+        {
+          "party": "A Just Russia",
+          "value": 11.17
+        },
+        {
+          "party": "New People",
+          "value": 9.68
+        },
+        {
+          "party": "Yabloko",
+          "value": 4.25
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.27
+        },
+        {
+          "party": "Rodina",
+          "value": 1.18
+        },
+        {
+          "party": "Greens",
+          "value": 1.02
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.91
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.82
+        },
+        {
+          "party": "RPSS",
+          "value": 0.82
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.36
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.12
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "05": {
+      "date": "2021-09-19",
+      "turnout": 43.6,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 48.1
+        },
+        {
+          "party": "CPRF",
+          "value": 17.84
+        },
+        {
+          "party": "A Just Russia",
+          "value": 12.2
+        },
+        {
+          "party": "New People",
+          "value": 5.68
+        },
+        {
+          "party": "LDPR",
+          "value": 5.34
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.67
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.7
+        },
+        {
+          "party": "Rodina",
+          "value": 1.21
+        },
+        {
+          "party": "RPSS",
+          "value": 0.64
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.61
+        },
+        {
+          "party": "Greens",
+          "value": 0.53
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.49
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.29
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.21
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "06": {
+      "date": "2021-09-19",
+      "turnout": 72.79,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 66.61
+        },
+        {
+          "party": "CPRF",
+          "value": 14.74
+        },
+        {
+          "party": "LDPR",
+          "value": 8.67
+        },
+        {
+          "party": "New People",
+          "value": 2.79
+        },
+        {
+          "party": "A Just Russia",
+          "value": 2.62
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 1.02
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.62
+        },
+        {
+          "party": "Greens",
+          "value": 0.47
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.36
+        },
+        {
+          "party": "RPSS",
+          "value": 0.29
+        },
+        {
+          "party": "Rodina",
+          "value": 0.24
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.22
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.19
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.18
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "07": {
+      "date": "2021-09-19",
+      "turnout": 59.07,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 51.65
+        },
+        {
+          "party": "CPRF",
+          "value": 18.67
+        },
+        {
+          "party": "LDPR",
+          "value": 7.23
+        },
+        {
+          "party": "A Just Russia",
+          "value": 6.88
+        },
+        {
+          "party": "New People",
+          "value": 5.51
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 3.38
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.5
+        },
+        {
+          "party": "Greens",
+          "value": 0.78
+        },
+        {
+          "party": "Rodina",
+          "value": 0.69
+        },
+        {
+          "party": "RPSS",
+          "value": 0.64
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.55
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.54
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.25
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "08": {
+      "date": "2021-09-19",
+      "turnout": 68.65,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 64.32
+        },
+        {
+          "party": "CPRF",
+          "value": 13.7
+        },
+        {
+          "party": "LDPR",
+          "value": 8.6
+        },
+        {
+          "party": "A Just Russia",
+          "value": 4.97
+        },
+        {
+          "party": "New People",
+          "value": 2.33
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 1.27
+        },
+        {
+          "party": "Rodina",
+          "value": 0.88
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 0.7
+        },
+        {
+          "party": "RPSS",
+          "value": 0.4
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.4
+        },
+        {
+          "party": "Greens",
+          "value": 0.34
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.27
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.27
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.19
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    },
+    "09": {
+      "date": "2021-09-19",
+      "turnout": 44.97,
+      "provisional": false,
+      "results": [
+        {
+          "party": "United Russia",
+          "value": 42.63
+        },
+        {
+          "party": "CPRF",
+          "value": 26.74
+        },
+        {
+          "party": "New People",
+          "value": 11.22
+        },
+        {
+          "party": "LDPR",
+          "value": 5.74
+        },
+        {
+          "party": "A Just Russia",
+          "value": 3.56
+        },
+        {
+          "party": "Party of Pensioners",
+          "value": 2.95
+        },
+        {
+          "party": "Greens",
+          "value": 1.79
+        },
+        {
+          "party": "Communists of Russia",
+          "value": 1.26
+        },
+        {
+          "party": "Green Alternative",
+          "value": 0.47
+        },
+        {
+          "party": "Yabloko",
+          "value": 0.41
+        },
+        {
+          "party": "RPSS",
+          "value": 0.38
+        },
+        {
+          "party": "Rodina",
+          "value": 0.28
+        },
+        {
+          "party": "Civic Platform",
+          "value": 0.18
+        },
+        {
+          "party": "Party of Growth",
+          "value": 0.13
+        }
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2021):_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%BF%D0%BE_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B9%D0%BD%D1%8B%D0%BC_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%D0%BC"
+    }
+  }
+}
